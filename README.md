@@ -1,2 +1,2 @@
 # Data-Project-Lifecycle
-I did this project and I presented it during a masterclass of AMA on data project lifecycle presentation.
+I worked on this project and presented it during an AMA masterclass on the data project lifecycle.
